@@ -1,0 +1,6 @@
+Category,Value
+Students with grade above 50,"Zeynep, İsmet, Ahmet, Fatma, Ercan, Selin, Zeynep, Tülin"
+Students older than 25,"İsmet, Ahmet, Ercan, Zeynep, Tülin"
+Average grade,71.22222222222223
+Highest grade,95.0 -> ['Selin']
+Lowest grade,45.0 -> ['Eylül']
